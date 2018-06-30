@@ -1,7 +1,7 @@
 {
-  "name": "element-ui",
+  "name": "yuliang-element-ui",
   "version": "2.4.2",
-  "description": "A Component Library for Vue.js.",
+  "description": "study ElementUI code",
   "main": "lib/element-ui.common.js",
   "files": [
     "lib",
