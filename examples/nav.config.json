@@ -245,6 +245,15 @@
               "title": "Collapse 折叠面板"
             }
           ]
+        },
+        {
+          "groupName": "daojia-admin-templatre",
+          "list": [
+            {
+              "path": "/dj-btn-link-group",
+              "title": "dj-btn-link-group 按钮组"
+            }
+          ]
         }
       ]
     }
