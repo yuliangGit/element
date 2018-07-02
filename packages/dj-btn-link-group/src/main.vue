@@ -54,7 +54,7 @@
   </div>
 </template>
 <script>
-  import emitter from 'element-ui/lib/mixins/emitter';
+  import emitter from 'element-ui/src/mixins/emitter';
 
   export default {
     name: 'ElDjBtnLinkGroup',
