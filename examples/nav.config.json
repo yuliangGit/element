@@ -252,6 +252,10 @@
             {
               "path": "/dj-btn-link-group",
               "title": "dj-btn-link-group 按钮组"
+            },
+            {
+              "path": "/dj-section-wrap",
+              "title": "dj-section-wrap 模块外层样式"
             }
           ]
         }

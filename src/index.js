@@ -70,6 +70,7 @@ import Aside from '../packages/aside/index.js';
 import Main from '../packages/main/index.js';
 import Footer from '../packages/footer/index.js';
 import DjBtnLinkGroup from '../packages/dj-btn-link-group/index.js';
+import DjSectionWrap from '../packages/dj-section-wrap/index.js';
 import locale from 'element-ui/src/locale';
 import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
 
@@ -140,6 +141,7 @@ const components = [
   Main,
   Footer,
   DjBtnLinkGroup,
+  DjSectionWrap,
   CollapseTransition
 ];
 
@@ -248,7 +250,8 @@ module.exports = {
   Aside,
   Main,
   Footer,
-  DjBtnLinkGroup
+  DjBtnLinkGroup,
+  DjSectionWrap
 };
 
 module.exports.default = module.exports;
