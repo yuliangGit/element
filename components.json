@@ -69,5 +69,7 @@
   "main": "./packages/main/index.js",
   "footer": "./packages/footer/index.js",
   "dj-btn-link-group": "./packages/dj-btn-link-group/index.js",
-  "dj-section-wrap": "./packages/dj-section-wrap/index.js"
+  "dj-section-wrap": "./packages/dj-section-wrap/index.js",
+  "dj-section-wrap-with-move": "./packages/dj-section-wrap-with-move/index.js",
+  "dj-img-upload": "./packages/dj-img-upload/index.js"
 }
